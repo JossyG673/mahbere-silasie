@@ -133,15 +133,6 @@ function LoginForm() {
             </Link>
           </div>
 
-          {/* Demo credentials */}
-          <div className="mt-6 p-4 bg-linen rounded-xl text-xs text-slate-light border border-sand/50">
-            <p className="font-bold text-slate mb-2 flex items-center gap-1.5">
-              <span className="w-2 h-2 rounded-full bg-teal" />
-              {isAm ? "የሙከራ መለያዎች" : "Demo Credentials"}
-            </p>
-            <div className="space-y-1">
-              <p><span className="font-semibold text-wine">Admin:</span> admin@mahiberesilassie.org / Beurself673673</p>
-              <p><span className="font-semibold text-teal">Member:</span> member@example.com / member123</p>
             </div>
           </div>
         </div>
