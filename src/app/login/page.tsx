@@ -140,7 +140,7 @@ function LoginForm() {
               {isAm ? "የሙከራ መለያዎች" : "Demo Credentials"}
             </p>
             <div className="space-y-1">
-              <p><span className="font-semibold text-wine">Admin:</span> admin@mahiberesilassie.org / admin123</p>
+              <p><span className="font-semibold text-wine">Admin:</span> admin@mahiberesilassie.org / Beurself673673</p>
               <p><span className="font-semibold text-teal">Member:</span> member@example.com / member123</p>
             </div>
           </div>
