@@ -92,8 +92,8 @@ export default function Footer({ locale }: FooterProps) {
                 <MapPin className="w-4 h-4 text-teal-light mt-0.5 flex-shrink-0" />
                 <span>
                   {isAm
-                    ? "ሰበታ ዋታ፣ ኦሮሚያ ክልል፣ ኢትዮጵያ"
-                    : "Sebeta Wata, Oromia Region, Ethiopia"}
+                    ? "ሰበታ ፣ ኦሮሚያ ክልል፣ ኢትዮጵያ"
+                    : "Sebeta , Oromia Region, Ethiopia"}
                 </span>
               </li>
               <li className="flex items-center gap-2.5">
@@ -102,7 +102,7 @@ export default function Footer({ locale }: FooterProps) {
               </li>
               <li className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-teal-light flex-shrink-0" />
-                +251-11-123-4567
+                +251-92-867-3673
               </li>
             </ul>
           </div>
@@ -117,8 +117,8 @@ export default function Footer({ locale }: FooterProps) {
             </p>
             <p>
               {isAm
-                ? "የሰበታ ዋታ ቅድስት ሥላሴ ቤተ ክርስቲያን"
-                : "Sebeta Wata Kidist Silassie Church"}
+                ? "የሰበታ ምዕራፈ ቅዱሳን ቅድስት ሥላሴ ቤተ ክርስቲያን"
+                : "Sebeta merafe kdusan Kidist Silassie Church"}
             </p>
           </div>
         </div>
